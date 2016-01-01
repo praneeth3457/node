@@ -1,0 +1,14 @@
+> go to the project folder in your terminal.
+> do "npm init" and enter the  fields
+> it will create the package.json file.
+
+>Node-Persist - Is to save the data 
+> Go to the terminal and do "node-persist@0.0.6 --save" , this will create node-persist folder in yur project folder
+> Create a new file under password-manager folder and save it as "app.js"
+> open package.json in your IDE & under the scripts add "start":"node app.js" [this is your start of the file in your project
+
+> Yargs - Getting input from the user & Validating the User 
+> Go to terminal & do npm install yargs@3.15.0 --save
+
+>Request - For public API's
+>Go to terminal & do npm install request --save
